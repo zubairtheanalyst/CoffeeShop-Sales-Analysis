@@ -1,6 +1,12 @@
 # Coffee Shop Sales Analysis
 
-A Power BI dashboard analyzing coffee shop sales, providing daily and hourly insights for decision-making. The dashboard is fully controlled via a **month-year slicer**.
+A **single-page Power BI dashboard** analyzing coffee shop sales, providing daily and hourly insights for decision-making. The dashboard is fully controlled via a **month-year slicer**.
+
+---
+
+## 📊 Dashboard Screenshot
+
+![Coffee Shop Sales Dashboard](assets/dashboard.png)
 
 ---
 
@@ -12,7 +18,7 @@ A short demo showing headline KPIs, daily sales trends, heat maps, and top-selli
 
 ---
 
-## 📊 Key Features
+## 🎯 Key Features
 
 - Headline KPIs: **Total Sales, Total Quantity Sold, Total Orders** with previous month comparison and sparklines  
 - **Month-Year slicer** for dynamic selection  

@@ -1,6 +1,6 @@
 # Coffee Shop Sales Analysis
 
-A **Power BI dashboard** analyzing coffee shop sales, providing daily and hourly insights for decision-making. The dashboard is fully controlled via a **month-year slicer**.
+A **Power BI dashboard** analyzing coffee shop sales, providing daily and hourly insights for decision-making. The dashboard is fully controlled via a **Month-Year slicer**.
 
 ---
 

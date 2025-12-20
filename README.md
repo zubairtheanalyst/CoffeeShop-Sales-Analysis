@@ -16,6 +16,11 @@ A short demo showing headline KPIs, daily sales trends, heat maps, and top-selli
 
 📽️ **[Watch the walkthrough](video/coffee_dashboard_walkthrough.mp4)**
 
+
+
+https://github.com/user-attachments/assets/e2e91f6d-b291-4f8d-abfc-e5565bf32804
+
+
 ---
 
 ## 🎯 Key Features

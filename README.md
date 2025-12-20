@@ -14,10 +14,6 @@ A **Power BI dashboard** analyzing coffee shop sales, providing daily and hourly
 
 A short demo showing headline KPIs, daily sales trends, heat maps, and top-selling categories.
 
-📽️ **[Watch the walkthrough](video/coffee_dashboard_walkthrough.mp4)**
-
-
-
 https://github.com/user-attachments/assets/e2e91f6d-b291-4f8d-abfc-e5565bf32804
 
 

@@ -6,7 +6,7 @@ A **Power BI dashboard** analyzing coffee shop sales, providing daily and hourly
 
 ## 📊 Dashboard
 
-![Coffee Shop Sales Dashboard](assets/dashboard.png)
+![Coffee Shop Sales Dashboard](assets/dashboard_1.png)
 
 ---
 
